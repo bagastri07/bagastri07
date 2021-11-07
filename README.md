@@ -10,23 +10,23 @@ Hello, I'm a backend developer and Bachelor of Computer Science student at Telko
 
 </p>
 
-### Backend Developments
+### Backend Developments :purple_heart:
 
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django)
+![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=express)
+<!-- ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django) -->
 
-### Programming Languages
+### Programming Languages :blue_heart:
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go)
 
-## Databases
+## Databases :open_file_folder:
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb)
 ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb)
 
-### Other Tools
+### Other Tools :briefcase:
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)
