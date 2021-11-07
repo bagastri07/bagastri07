@@ -2,7 +2,7 @@
 
 Hello, I'm a backend developer and Bachelor of Computer Science student at Telkom University, currently in semester 5
 
-:mailbox: Contact me!
+### Contact me! :mailbox:
 
 [![Mail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bagastri_07/)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagas-tri-wibowo/)
