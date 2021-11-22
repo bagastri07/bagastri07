@@ -40,7 +40,3 @@ Hello, I'm a backend developer and Bachelor of Computer Science student at Telko
 ### My Github Stats
 
 [![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagastri07&count_private=true&hide=prs,contribs&theme=tokyonight)]
-
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagastri07&layout=compact&theme=tokyonight)]
-
